@@ -1,5 +1,4 @@
 # My-Portfolio
 <br>
-<marquee>click on the link</marquee>
-<br>
+click on the link
 https://eportfolio.mygreatlearning.com/mohammed-talib
